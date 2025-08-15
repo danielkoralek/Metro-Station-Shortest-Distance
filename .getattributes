@@ -1,4 +1,0 @@
-*.php linguist-language=PHP
-*.phtml linguist-language=PHP
-*.phps linguist-language=PHP
-
